@@ -3,7 +3,7 @@
 //petit rajour pour pister les diff avec git
 
 
-$_SESSION['action_label']   = ''; //autre rajout pour git
+$_SESSION['action_label']   = ''; 
 $_SESSION['action_status']  = false;
 $_SESSION['action_msg']     = '';
 
