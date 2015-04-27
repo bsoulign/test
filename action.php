@@ -4,7 +4,7 @@
 
 
 $_SESSION['action_label']   = ''; 
-$_SESSION['action_status']  = false;
+$_SESSION['action_status']  = false;//testons
 $_SESSION['action_msg']     = '';
 
 if(isset($_GET['act'])) {
